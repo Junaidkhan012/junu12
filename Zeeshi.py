@@ -59,7 +59,7 @@ def main():
 	print("")
 	print("\033[92;1m  [1] START CRACK")
 	print("\033[93;1m  [2] GET FREE ACCESS TOKEN")
-	print("\033[94;1m  [3] JUNAID KHAN)
+	print("\033[94;1m  [3] JUNAID KHAN")
 	print("\033[96;1m  [J] WHATAPPS 03027730173")
 	print("\033[90;1m  [0] EXIT")
 	print("")
